@@ -51,6 +51,7 @@ module?.exports = React.createClass
         {links}
         <a href="http://talk.chimpandsee.org/" target="chimptalk">Discuss</a>
         <a href="http://chimpandsee.blogspot.de/" target="chimpblog">Blog</a>
+        <a href="https://talk.chimpandsee.org/#/boards/BCP000000c/discussions/DCP0001izd" target="_blank">Best of 2016</a>
       </div>
       <img className="chimpster" src="./assets/chimpster.png" alt="" />
     </nav>
